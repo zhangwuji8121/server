@@ -356,8 +356,8 @@
         "rejectUnauthorized": true
       },
       "autoAssembly": {
-        "enable": false,
-        "interval": "5m",
+        "enable": true,
+        "interval": "30s",
         "step": "1m"
       },
       "utils": {
